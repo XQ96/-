@@ -13,3 +13,4 @@
 
 case=input()
 print(len(case.split()[-1]))
+#py特别好用
